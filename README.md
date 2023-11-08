@@ -4,6 +4,10 @@
 
 ```
 I was given the task to take some starter code that already had the HTML, CSS, and a little JavaScript and turn it into a password generating website. Nowadays it is very important to have a strong password because there are a lot of hackers out there that try and steal our imforamtion. That is why this website is so important.
+
+[Deployed Application Link](https://nickhudson119.github.io/challenge-3.0/)
+
+[GitHub Repo Link](https://github.com/NickHudson119/challenge-3.0)
 ```
 
 
